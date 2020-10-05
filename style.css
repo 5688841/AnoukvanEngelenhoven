@@ -41,6 +41,12 @@ img, audio, iframe {
   width: 100%;
 }
 
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
 .video-container {
   position: relative;
   padding-bottom: 56.25%; /*16:9*/
