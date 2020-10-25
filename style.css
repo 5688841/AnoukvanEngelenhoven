@@ -20,7 +20,9 @@ body {
 }
 
 body,input {
-	font-family: "Trebuchet MS", sans-serif;
+   font-family: 'CoelacanthRegular';
+   font-weight: normal;
+   font-style: normal;
 }
 
 br.clearfix {
