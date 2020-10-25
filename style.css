@@ -45,7 +45,7 @@ h2 {
 h2,h3,h4 {
 	color: #FFFFFF;
 	margin-bottom: 1em;
-	font-family: Oswald, sans-serif;
+	font-family: CoelacanthRegular;
 	text-shadow: 0px 1px 1px #0C1114;
 }
 
@@ -118,7 +118,7 @@ ul h4 {
 
 #logo h1 {
 	font-size: 3.5em;
-	font-family: Oswald, sans-serif;
+	font-family: CoelacanthRegular;
 	text-shadow: 0px 2px 2px #0C1114;
 	margin: 0 0 0.25em 0;
 }
@@ -132,7 +132,7 @@ ul h4 {
 }
 
 #menu {
-	font-family: Oswald, sans-serif;
+	font-family: CoelacanthRegular;
 	position: absolute;
 	background: #BD704D url(images/img02.gif) repeat-x top left;
 	right: 40px;
