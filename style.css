@@ -57,14 +57,63 @@ h4 {
 	font-size: 1em;
 }
 
-img.alignleft {
-	margin: 5px 20px 20px 0;
-	float: left;
+img, audio, iframe {
+  width: 100%;
 }
 
-img.aligntop {
-	margin: 5px 0 20px 0;
+div {
+  border: 3px hidden #fefffd;
+  padding: 5px;
+}	  
+	.img2 {
+  float: right;
 }
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.img3 {
+  float: left;
+}
+		  
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+		  .img4 {
+  float: right;
+}
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+		  .img5 {
+  float: left;
+}
+		  
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+		  
+		    .img6 {
+  float: right;
+}
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+
+}
+
 
 p {
 	margin-bottom: 1.5em;
